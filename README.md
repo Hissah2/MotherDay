@@ -1,4 +1,4 @@
-**Mother's Day ASCII Art Greeting**
+# Mother's Day ASCII Art Greeting
 
 **Description:**
 
@@ -40,6 +40,6 @@
 
 **Author:**
 
-• [Hissah Khalid]([link-to-your-profile](https://github.com/Hissah2)https://github.com/Hissah2) 
+• [Hissah Khalid]([https://github.com/Hissah2]) 
 
 
