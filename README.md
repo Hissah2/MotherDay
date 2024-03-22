@@ -6,10 +6,10 @@
 
 **Features:**
 
-• ASCII art with stylized heart and flower.
-• Combination of English and Arabic greetings.
-• Color styling using Colorama.
-• Optional music playback.
+• ASCII art with stylized heart and flower.  
+• Combination of English and Arabic greetings.  
+• Color styling using Colorama.  
+• Optional music playback.  
 
 **Usage:**
 
@@ -20,8 +20,8 @@
 
 **Dependencies:**
 
-• Python 3.x
-• Colorama library
+• Python 3.x  
+• Colorama library  
 
 **Instructions:**
 
