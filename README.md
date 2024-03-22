@@ -2,12 +2,12 @@
 
 **Description:**
 
- This Python script generates an ASCII art greeting for Mother's Day, combining both English and Arabic messages. It utilizes the Colorama library for color styling and includes the option to play the "Canon in D" music file.
+ This Python script generates an ASCII art greeting for Mother's Day,  English messages. It utilizes the Colorama library for color styling and includes the option to play the "Canon in D" music file.
 
 **Features:**
 
 • ASCII art with stylized heart and flower.  
-• Combination of English and Arabic greetings.  
+• English greetings.  
 • Color styling using Colorama.  
 • Optional music playback.  
 
@@ -15,7 +15,7 @@
 
 1. Ensure you have Python installed on your system.
 2. Install the Colorama library using `pip install colorama`.
-3. Place the "Canon in D.mp3" file in the same directory as the script.
+3. Place the "Music.mp3" file in the same directory as the script.
 4. Run the script.
 
 **Dependencies:**
@@ -40,6 +40,6 @@
 
 **Author:**
 
-• [Hissah Khalid]([https://github.com/Hissah2]) 
+• [Hissah Khalid](https://github.com/Hissah2)  
 
 
