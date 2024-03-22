@@ -35,7 +35,7 @@
 
 **Acknowledgments:**
 
-• The ASCII art design was inspired by various online sources.
+• The ASCII art design was inspired by various online sources.  
 • Special thanks to the Colorama developers for their library.
 
 **Author:**
